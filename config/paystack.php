@@ -27,7 +27,7 @@ return [
      * Paystack Payment URL
      *
      */
-    'paymentUrl' => getenv('PAYSTACK_PAYMENT_URL'),
+    'paymentUrl' => https://api.paystack.co,
 
     /**
      * Optional email address of the merchant
